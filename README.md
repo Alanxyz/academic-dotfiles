@@ -1,2 +1,13 @@
-# academic-dotfiles
-Configuración personal para el ámbito científico
+# Dotfiles academicos
+
+Estos son mis archivos de configuracion que utilizo en mi PC de estudios.
+
+### Instalacion
+
+```bash
+git clone https://github.com/AstralCam/academic-dotfiles
+cd academic-dotfiles
+bash install.sh
+```
+
+Es importante estar dentro del directorio `academic-dotfiles/` para que los enlaces simbolicos se creen correctamente. Si ya tienes alguna configuracion de algun programa, esta se conservara.
