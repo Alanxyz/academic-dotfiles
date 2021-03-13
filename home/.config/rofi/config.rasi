@@ -1,0 +1,10 @@
+configuration {
+    lines:              6;
+    width: 							600;
+    font:               "monospace 9";
+    cycle:              true;
+    hide-scrollbar:     true;
+    disable-history:    false;
+    modi:               "drun";
+    show-icons:         false;
+}
