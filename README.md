@@ -11,3 +11,7 @@ bash install.sh
 ```
 
 Es importante estar dentro del directorio `academic-dotfiles/` para que los enlaces simbolicos se creen correctamente. Si ya tienes alguna configuracion de algun programa, esta se conservara.
+
+### Imagenes
+
+![Captura de pantalla](https://raw.githubusercontent.com/AstralCam/academic-dotfiles/main/screenshot.png)
